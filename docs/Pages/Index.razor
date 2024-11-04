@@ -1,0 +1,12 @@
+﻿@page "/"
+
+<h1>Download</h1>
+
+<p>Click the button to Download alert file.</p>
+
+<div class="form-group">
+    <label for="filename">Filename</label>
+    <input @bind="filename" type="text" class="form-control" id="filename" placeholder="Enter file name">
+</div>
+
+<button class="btn btn-primary" @onclick="DownloadAsync">Download!</button>
