@@ -12,8 +12,7 @@ Install-Package Append.Blazor.Downloads
 ```
 
 ## Demo
-// TODO: Add azure file link
-There is a sample application in /docs folder which is also hosted as [documentation](https://wonderful-smoke-084433603.2.azurestaticapps.net). 
+There is a sample application in /docs folder which is also hosted as [documentation](https://blazor-downloads.append.be). 
 
 ## Usage
 
